@@ -56,7 +56,7 @@ python mediaRename.py /Users/usuario/Inágenes/Viaje2023
 
 ### Ejemplo de Ejecución
 
-![Screenshot de ejecución](screenshot.png)
+![Screenshot de ejecución](Screenshot.png)
 
 ## 🔍 Detalles Técnicos
 
