@@ -31,7 +31,7 @@
 3. **Instala las dependencias necesarias**:
 
    ```bash
-   pip install pytz Pillow pyheif piexif
+   pip install -r requirements.txt
    ```
 
    > **Nota para usuarios de macOS/Linux**: Si encuentras errores instalando `pyheif`, asegúrate de tener las librerías de desarrollo instaladas (ej. `brew install libffi libheif` en macOS).
@@ -53,6 +53,10 @@ Pasa la ruta absoluta o relativa del directorio que quieres organizar como argum
 ```bash
 python mediaRename.py /Users/usuario/Inágenes/Viaje2023
 ```
+
+### Ejemplo de Ejecución
+
+![Screenshot de ejecución](screenshot.png)
 
 ## 🔍 Detalles Técnicos
 
