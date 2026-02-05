@@ -45,7 +45,7 @@ Navega a la carpeta donde tienes tus fotos y ejecuta el script:
 
 ```bash
 python mediaRename.py
-```
+``` 
 
 ### Opción 2: Especificar una ruta
 Pasa la ruta absoluta o relativa del directorio que quieres organizar como argumento:
